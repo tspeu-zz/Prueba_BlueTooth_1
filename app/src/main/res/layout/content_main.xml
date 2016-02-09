@@ -22,12 +22,13 @@
         <ImageButton
             android:layout_width="536dp"
             android:layout_height="457dp"
-            android:id="@+id/imageButton"
+            android:id="@+id/imageButtonLogo"
             android:layout_gravity="center_horizontal"
             android:paddingTop="-10dp"
             android:src="@drawable/bluetooth"
             android:tint="@color/colorPrimaryDark"
             android:background="@color/textIcons"
-            android:contentDescription="@string/logo" />
+            android:contentDescription="@string/logo"
+            android:onClick="ventanaBlueTooth" />
     </LinearLayout>
 </RelativeLayout>

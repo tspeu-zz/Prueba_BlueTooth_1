@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test_BlueTooth</string>
+    <string name="Find">Rechercher de nouveaux  / Annuler</string>
+    <string name="List">Liste  Devices</string>
+    <string name="Text">statut</string>
+    <string name="action_settings">Réglages</string>
+    <string name="off">Éteindre</string>
+    <string name="on">Allumer</string>
+</resources>

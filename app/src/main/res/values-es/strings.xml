@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test_BlueTooth</string>
+    <string name="Find">Buscar nuevo/Cancelar</string>
+    <string name="List">Lista encontrados</string>
+    <string name="Text">Estado</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="off">Apagar</string>
+    <string name="on">Encender</string>
+</resources>
