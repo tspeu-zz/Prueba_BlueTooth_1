@@ -13,7 +13,21 @@
     tools:showIn="@layout/activity_main">
 
 
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
 
-
-
+        <ImageButton
+            android:layout_width="536dp"
+            android:layout_height="457dp"
+            android:id="@+id/imageButton"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="-10dp"
+            android:src="@drawable/bluetooth"
+            android:tint="@color/colorPrimaryDark"
+            android:background="@color/textIcons"
+            android:contentDescription="@string/logo" />
+    </LinearLayout>
 </RelativeLayout>
